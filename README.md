@@ -36,7 +36,7 @@ global_clustering_app/
 
 ## Deployment (Streamlit Cloud)
 1. Push this repository to GitHub.
-2. Go to https://streamlit.io/cloud
+2. Go to https://share.streamlit.io
 3. Create a new app and select `app.py`.
 4. Deploy.
 
